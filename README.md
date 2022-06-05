@@ -1,6 +1,6 @@
 # SourceFreeDomainAdaptation
 
-This is the source code for the [A Comparison of Strategies for Source-Free Domain Adaptation](https://openreview.net/pdf?id=r0MNmnx4gHX) paper. The code for data processing is in `data`, and the code for experiments is in `experiments`.
+This is the source code for the [A Comparison of Strategies for Source-Free Domain Adaptation](https://aclanthology.org/2022.acl-long.572/) paper. The code for data processing is in `data`, and the code for experiments is in `experiments`.
 
 ### Environment
 
